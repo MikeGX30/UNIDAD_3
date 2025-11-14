@@ -4,4 +4,4 @@
 
 |  Nº | Actividad                                         | Ver                                                 |
 | :-: | :------------------------------------------------ | :-------------------------------------------------- |
-|  1  | U3 Ejercicio Guiado Swing 💻 | [📄 Abrir PDF](./Lista-enlazada-simple-con-VisualAlgo.pdf)      
+|  1  | U3 Ejercicio Guiado Swing 💻 | [📄 Abrir PDF](./U3-Ejercicio-Guiado-Swing.pdf)      
