@@ -4,4 +4,4 @@
 
 |  Nº | Actividad                                         | Ver                                                 |
 | :-: | :------------------------------------------------ | :-------------------------------------------------- |
-|  1  | U3 Ejercicio Guiado Swing 💻 | [📄 Abrir PDF](./U3-Ejercicio-Guiado-Swing.pdf)      
+|  1  | U3 Ejercicio Guiado Swing 💻 | [📄 Abrir PDF](./U3_Ejercicio_Guiado_Swing.pdf)      
