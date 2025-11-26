@@ -11,8 +11,8 @@
 
 |  Nº | Actividad             (Codigos)                            | Ver                                                 |
 | :-: | :------------------------------------------------ | :-------------------------------------------------- |
-|  1  | Codigos De Implementacion de Arboles | [📄 Abrir PDF](./ArbolBinario.java)  
-|  2  | Codigos De Implementacion de Arboles | [📄 Abrir PDF](./NodoArbol.java)   
-|  3  | Codigos De Implementacion de Arboles | [📄 Abrir PDF](./PruebaArbol.java)   
+|  1  | Codigos De Implementacion de Arboles | [📄 Abrir Codigo](./ArbolBinario.java)  
+|  2  | Codigos De Implementacion de Arboles | [📄 Abrir Codigo](./NodoArbol.java)   
+|  3  | Codigos De Implementacion de Arboles | [📄 Abrir Codigo](./PruebaArbol.java)   
 
 
