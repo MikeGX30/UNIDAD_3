@@ -7,6 +7,8 @@
 |  1  | U3 Ejercicio Guiado Swing 💻 | [📄 Abrir PDF](./U3_Ejercicio_Guiado_Swing.pdf)      
 |  2  | U3 Ejercicio Guiado arboles 💻 | [📄 Abrir PDF](./Arboles_Conceptos.pdf)   
 |  3  | U3 Ejercicio Implementacion de Arboles 💻 | [📄 Abrir PDF](./Implementacion_de_un_arbol_binario.pdf)  
+|  4  | U3 Ejercicio Conjuntos 💻 | [📄 Abrir PDF](./Conjuntos.pdf) 
+|  5  | U3 Ejercicio Diccionario 💻 | [📄 Abrir PDF](./nearpod_diccionario.pdf)  
 
 
 |  Nº | Actividad             (Codigos)                            | Ver                                                 |
