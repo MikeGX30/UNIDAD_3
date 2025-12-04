@@ -8,7 +8,9 @@
 |  2  | U3 Ejercicio Guiado arboles 💻 | [📄 Abrir PDF](./Arboles_Conceptos.pdf)   
 |  3  | U3 Ejercicio Implementacion de Arboles 💻 | [📄 Abrir PDF](./Implementacion_de_un_arbol_binario.pdf)  
 |  4  | U3 Ejercicio Conjuntos 💻 | [📄 Abrir PDF](./Conjuntos.pdf) 
-|  5  | U3 Ejercicio Diccionario 💻 | [📄 Abrir PDF](./nearpod-diccionario.pdf)  
+|  5  | U3 Ejercicio Diccionario 💻 | [📄 Abrir PDF](./nearpod-diccionario.pdf) 
+|  6  | U3 Ejercicio Mapa Mental 💻 | [📄 Abrir PDF](./MapaEstructuraDatos.pdf) 
+
 
 
 |  Nº | Actividad             (Codigos)                            | Ver                                                 |
